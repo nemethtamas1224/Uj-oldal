@@ -1,0 +1,40 @@
+import type { CollectionConfig } from 'payload'
+import { contentEditor, publishedOrAdmin } from './access'
+
+export const Products: CollectionConfig = {
+  slug: 'products',
+  admin: { useAsTitle: 'name', defaultColumns: ['name', 'productKind', 'reviewState', 'status'] },
+  access: { create: contentEditor, delete: contentEditor, read: publishedOrAdmin, update: contentEditor },
+  versions: { drafts: { autosave: true, schedulePublish: true }, maxPerDoc: 25 },
+  fields: [
+    { name: 'name', type: 'text', required: true, index: true },
+    { name: 'slug', type: 'text', required: true, unique: true, index: true },
+    { name: 'brand', type: 'text' },
+    { name: 'manufacturer', type: 'relationship', relationTo: 'manufacturers' },
+    { name: 'family', type: 'relationship', relationTo: 'product-families' },
+    { name: 'modelCode', type: 'text' },
+    { name: 'productKind', type: 'select', required: true, defaultValue: 'legacy', options: [{label:'Konkrét modell',value:'model'},{label:'Terméktípus',value:'type'},{label:'Tartozék',value:'accessory'},{label:'Régi forrásoldal',value:'legacy'}] },
+    { name: 'reviewState', type: 'select', required: true, defaultValue: 'source-check', options: [{label:'Forrás ellenőrizendő',value:'source-check'},{label:'Név azonosított',value:'identified'},{label:'Műszaki adatok hiányoznak',value:'specs-missing'},{label:'Publikálásra kész',value:'ready'}] },
+    { name: 'reviewNote', type: 'textarea', admin: { description: 'Belső megjegyzés, a nyilvános termékoldalon nem jelenik meg.' } },
+    { name: 'summary', type: 'textarea' },
+    { name: 'sourceDetails', type: 'textarea', admin: { description: 'Eredeti termékleírás a forrásoldalról.' } },
+    { name: 'description', type: 'richText' },
+    { name: 'specifications', type: 'array', fields: [{ name: 'label', type: 'text', required: true }, { name: 'value', type: 'text', required: true }] },
+    { name: 'configurations', type: 'array', fields: [{name:'name',type:'text',required:true},{name:'value',type:'text'},{name:'sourceUrl',type:'text'}] },
+    { name: 'hoseSizes', type: 'array', label: 'Öntözőcső méretváltozatok', admin: { description: 'Egy sor egy átmérő (mm) / tömlőhossz (m) változat. A katalógusadat nem igazolja az aktuális készletet vagy rendelhetőséget.' }, fields: [
+      { name: 'diameterMm', type: 'number', label: 'Átmérő (mm)', required: true, min: 1 },
+      { name: 'lengthM', type: 'number', label: 'Tömlőhossz (m)', required: true, min: 1 },
+    ] },
+    { name: 'category', type: 'relationship', relationTo: 'categories', hasMany: true },
+    { name: 'image', type: 'relationship', relationTo: 'media' },
+    { name: 'gallery', type: 'relationship', relationTo: 'media', hasMany: true },
+    { name: 'documents', type: 'relationship', relationTo: 'media', hasMany: true },
+    { name: 'relatedProducts', type: 'relationship', relationTo: 'products', hasMany: true },
+    { name: 'sourceEvidence', type: 'array', fields: [{name:'url',type:'text',required:true},{name:'note',type:'textarea'},{name:'media',type:'relationship',relationTo:'media'}] },
+    { name: 'originalUrl', type: 'text' },
+    { name: 'legacyKey', type: 'text', index: true },
+    { name: 'seoTitle', type: 'text' },
+    { name: 'seoDescription', type: 'textarea' },
+    { name: 'status', type: 'select', required: true, defaultValue: 'draft', options: [{ label: 'Piszkozat', value: 'draft' }, { label: 'Publikált', value: 'published' }, { label:'Archivált',value:'archived' }] },
+  ],
+}

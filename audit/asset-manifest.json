@@ -1,0 +1,2496 @@
+{
+  "source": "https://www.rmhungary.hu/",
+  "assets": [
+    {
+      "url": "https://www.rmhungary.hu/elemek/palyazat_2024_v2.webp",
+      "alt": "Pályázat",
+      "pages": [
+        "https://www.rmhungary.hu/palyazat.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 122998,
+      "localPath": "/source-media/1700fe3c128a-palyazat_2024_v2.webp"
+    },
+    {
+      "url": "https://www.rmhungary.hu/elemek/palyazat_2026_1.webp",
+      "alt": "Pályázat",
+      "pages": [
+        "https://www.rmhungary.hu/palyazat.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 118416,
+      "localPath": "/source-media/fe8c6ab24580-palyazat_2026_1.webp"
+    },
+    {
+      "url": "https://www.rmhungary.hu/elemek/palyazat_2026_2.webp",
+      "alt": "Pályázat",
+      "pages": [
+        "https://www.rmhungary.hu/palyazat.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 72994,
+      "localPath": "/source-media/b6d101b2f5da-palyazat_2026_2.webp"
+    },
+    {
+      "url": "https://www.rmhungary.hu/elemek/palyazat_2026_3.webp",
+      "alt": "Pályázat",
+      "pages": [
+        "https://www.rmhungary.hu/palyazat.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 68696,
+      "localPath": "/source-media/96d4efd081d7-palyazat_2026_3.webp"
+    },
+    {
+      "url": "https://www.rmhungary.hu/elemek/rolunk_decloet.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/rolunk.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 20281,
+      "localPath": "/source-media/52b49fe04f3f-rolunk_decloet.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/elemek/rolunk_giunti.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/rolunk.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 10497,
+      "localPath": "/source-media/11c3385a86be-rolunk_giunti.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/elemek/rolunk_rm.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/rolunk.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 11241,
+      "localPath": "/source-media/d0ece43dec7a-rolunk_rm.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/elemek/rolunk_rovatti.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/rolunk.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 26279,
+      "localPath": "/source-media/8ea9c33d2803-rolunk_rovatti.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/elemek/rolunk_starpower.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/rolunk.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 29589,
+      "localPath": "/source-media/9405ddd73bc7-rolunk_starpower.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/elemek/telepfejlesztes.jpg",
+      "alt": "telepfejlesztés",
+      "pages": [
+        "https://www.rmhungary.hu/rolunk.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 92418,
+      "localPath": "/source-media/dcf7bd283aec-telepfejlesztes.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/elemek/webdeb_logo.png",
+      "alt": "WebDeb.hu",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/rolunk.php",
+        "https://www.rmhungary.hu/index.php?alkat=37",
+        "https://www.rmhungary.hu/index.php?alkat=11",
+        "https://www.rmhungary.hu/index.php?alkat=48",
+        "https://www.rmhungary.hu/index.php?alkat=13",
+        "https://www.rmhungary.hu/index.php?alkat=10",
+        "https://www.rmhungary.hu/index.php?alkat=15",
+        "https://www.rmhungary.hu/index.php?alkat=44",
+        "https://www.rmhungary.hu/index.php?alkat=14",
+        "https://www.rmhungary.hu/index.php?alkat=5",
+        "https://www.rmhungary.hu/index.php?alkat=9",
+        "https://www.rmhungary.hu/index.php?alkat=7",
+        "https://www.rmhungary.hu/index.php?alkat=8",
+        "https://www.rmhungary.hu/index.php?alkat=6",
+        "https://www.rmhungary.hu/index.php?alkat=39",
+        "https://www.rmhungary.hu/index.php?alkat=40",
+        "https://www.rmhungary.hu/index.php?alkat=42",
+        "https://www.rmhungary.hu/index.php?alkat=38",
+        "https://www.rmhungary.hu/index.php?alkat=16",
+        "https://www.rmhungary.hu/index.php?alkat=47",
+        "https://www.rmhungary.hu/szolgaltatasok.php",
+        "https://www.rmhungary.hu/kapcsolat.php",
+        "https://www.rmhungary.hu/hirek.php",
+        "https://www.rmhungary.hu/index.php?alkat=43",
+        "https://www.rmhungary.hu/referenciak.php",
+        "https://www.rmhungary.hu/palyazat.php",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 2829,
+      "localPath": "/source-media/66a56433eba0-webdeb_logo.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/adatfeldolgozasiszerz.pdf",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/rolunk.php",
+        "https://www.rmhungary.hu/index.php?alkat=37",
+        "https://www.rmhungary.hu/index.php?alkat=11",
+        "https://www.rmhungary.hu/index.php?alkat=48",
+        "https://www.rmhungary.hu/index.php?alkat=13",
+        "https://www.rmhungary.hu/index.php?alkat=10",
+        "https://www.rmhungary.hu/index.php?alkat=15",
+        "https://www.rmhungary.hu/index.php?alkat=44",
+        "https://www.rmhungary.hu/index.php?alkat=14",
+        "https://www.rmhungary.hu/index.php?alkat=5",
+        "https://www.rmhungary.hu/index.php?alkat=9",
+        "https://www.rmhungary.hu/index.php?alkat=7",
+        "https://www.rmhungary.hu/index.php?alkat=8",
+        "https://www.rmhungary.hu/index.php?alkat=6",
+        "https://www.rmhungary.hu/index.php?alkat=39",
+        "https://www.rmhungary.hu/index.php?alkat=40",
+        "https://www.rmhungary.hu/index.php?alkat=42",
+        "https://www.rmhungary.hu/index.php?alkat=38",
+        "https://www.rmhungary.hu/index.php?alkat=16",
+        "https://www.rmhungary.hu/index.php?alkat=47",
+        "https://www.rmhungary.hu/szolgaltatasok.php",
+        "https://www.rmhungary.hu/kapcsolat.php",
+        "https://www.rmhungary.hu/hirek.php",
+        "https://www.rmhungary.hu/index.php?alkat=43",
+        "https://www.rmhungary.hu/referenciak.php",
+        "https://www.rmhungary.hu/palyazat.php",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 323765,
+      "localPath": "/source-media/a05f9871b55b-adatfeldolgozasiszerz.pdf"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/adatvedelmiadatkezelesiszab.pdf",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/rolunk.php",
+        "https://www.rmhungary.hu/index.php?alkat=37",
+        "https://www.rmhungary.hu/index.php?alkat=11",
+        "https://www.rmhungary.hu/index.php?alkat=48",
+        "https://www.rmhungary.hu/index.php?alkat=13",
+        "https://www.rmhungary.hu/index.php?alkat=10",
+        "https://www.rmhungary.hu/index.php?alkat=15",
+        "https://www.rmhungary.hu/index.php?alkat=44",
+        "https://www.rmhungary.hu/index.php?alkat=14",
+        "https://www.rmhungary.hu/index.php?alkat=5",
+        "https://www.rmhungary.hu/index.php?alkat=9",
+        "https://www.rmhungary.hu/index.php?alkat=7",
+        "https://www.rmhungary.hu/index.php?alkat=8",
+        "https://www.rmhungary.hu/index.php?alkat=6",
+        "https://www.rmhungary.hu/index.php?alkat=39",
+        "https://www.rmhungary.hu/index.php?alkat=40",
+        "https://www.rmhungary.hu/index.php?alkat=42",
+        "https://www.rmhungary.hu/index.php?alkat=38",
+        "https://www.rmhungary.hu/index.php?alkat=16",
+        "https://www.rmhungary.hu/index.php?alkat=47",
+        "https://www.rmhungary.hu/szolgaltatasok.php",
+        "https://www.rmhungary.hu/kapcsolat.php",
+        "https://www.rmhungary.hu/hirek.php",
+        "https://www.rmhungary.hu/index.php?alkat=43",
+        "https://www.rmhungary.hu/referenciak.php",
+        "https://www.rmhungary.hu/palyazat.php",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 666069,
+      "localPath": "/source-media/353072254d12-adatvedelmiadatkezelesiszab.pdf"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/04omega.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=11"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 88316,
+      "localPath": "/source-media/bfaca931d140-04omega.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/4es.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=14"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 26098,
+      "localPath": "/source-media/30e5323106f9-4es.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/7500ppetites.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=11"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 8821,
+      "localPath": "/source-media/69ad68660462-7500ppetites.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/e_8.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=14"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 40784,
+      "localPath": "/source-media/9b0c37c8af0f-e_8.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/ec_er_ecx6.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=14"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 45795,
+      "localPath": "/source-media/49e6f53b0670-ec_er_ecx6.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/en733_sne1.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=14"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 56698,
+      "localPath": "/source-media/43e07f4c41fc-en733_sne1.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/fk_europa.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=14"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 43196,
+      "localPath": "/source-media/87cc3b3d7680-fk_europa.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image1(1).jpeg",
+      "alt": "http://www.agrotec.hu/obrazky-soubory/001_z_8500p_fullsystem_earlycornwateron_72web-2e2ae.jpg",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=11"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 31668,
+      "localPath": "/source-media/d5b1d50b40fc-image1(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image1(3).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 12227,
+      "localPath": "/source-media/1f6b585c4d06-image1(3).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image1(4).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=42"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 65156,
+      "localPath": "/source-media/99cbcfdeb80f-image1(4).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image1(5).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=9"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 19658,
+      "localPath": "/source-media/eeb3eb7e3dbd-image1(5).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image1(6).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=44"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 20066,
+      "localPath": "/source-media/60bc750992ef-image1(6).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image1.jpeg",
+      "alt": "http://www.rmirrigation.com/images/banner/mop/1.jpg",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=15"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 172466,
+      "localPath": "/source-media/0c817504138e-image1.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image1.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=16"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 128631,
+      "localPath": "/source-media/5ba99c2685b2-image1.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image10(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 29608,
+      "localPath": "/source-media/8fa3da13deef-image10(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image10(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=8"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 42020,
+      "localPath": "/source-media/48774dd96c02-image10(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image10(3).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=44"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 27462,
+      "localPath": "/source-media/a70afd1d43f2-image10(3).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image11(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 22246,
+      "localPath": "/source-media/f93601358061-image11(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image11(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=8"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 32672,
+      "localPath": "/source-media/ec7baac9456d-image11(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image11(3).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=44"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 37842,
+      "localPath": "/source-media/ccff843b7519-image11(3).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image12(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 93732,
+      "localPath": "/source-media/1eed926e55cb-image12(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image12(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=7"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 20795,
+      "localPath": "/source-media/26040994725e-image12(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image12(3).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=44"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 32612,
+      "localPath": "/source-media/29bb00631724-image12(3).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image13(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 70867,
+      "localPath": "/source-media/e35790682320-image13(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image13(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=7"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 56770,
+      "localPath": "/source-media/c1cb6d4b6b15-image13(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image13(3).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=44"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 27738,
+      "localPath": "/source-media/00494d6fb5ee-image13(3).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image14(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 58037,
+      "localPath": "/source-media/bd80dea2a31a-image14(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image14(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=7"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 86936,
+      "localPath": "/source-media/e271eacb122c-image14(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image14(3).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=44"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 26517,
+      "localPath": "/source-media/e2a8f012bdda-image14(3).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image15(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=7"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 134282,
+      "localPath": "/source-media/fe71193f1064-image15(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image15(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=44"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 22215,
+      "localPath": "/source-media/bc0bb3288794-image15(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image15.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 22106,
+      "localPath": "/source-media/3ca52aace99a-image15.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image16(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 84831,
+      "localPath": "/source-media/32f3be990d37-image16(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image16(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 84831,
+      "localPath": "/source-media/e7dfcd111b4e-image16(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image16(3).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=6"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 118666,
+      "localPath": "/source-media/1f1e948bbcdc-image16(3).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image16(4).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=44"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 24626,
+      "localPath": "/source-media/c7c57904e0d3-image16(4).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image17(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 34211,
+      "localPath": "/source-media/9747f91bd68f-image17(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image17(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=6"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 14359,
+      "localPath": "/source-media/be2fa14003c6-image17(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image17(3).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=38"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 14359,
+      "localPath": "/source-media/592b85752df0-image17(3).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image18(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 31224,
+      "localPath": "/source-media/ab611a87f62e-image18(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image18(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=38"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 19764,
+      "localPath": "/source-media/a3a4bd8fba88-image18(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image19(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 4939,
+      "localPath": "/source-media/c07c42f066fa-image19(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image19(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=38"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 15900,
+      "localPath": "/source-media/424a01aaa555-image19(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image2(3).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 10499,
+      "localPath": "/source-media/9f15c5cae66f-image2(3).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image2(4).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=42"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 59338,
+      "localPath": "/source-media/02004890c798-image2(4).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image2(5).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=44"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 23806,
+      "localPath": "/source-media/2853397474d6-image2(5).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image2.jpeg",
+      "alt": "DCP_4719",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=15"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 213261,
+      "localPath": "/source-media/1204f1ad7ec8-image2.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image2.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=16"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 49836,
+      "localPath": "/source-media/70ec0aa5d863-image2.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image2.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=9"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 100658,
+      "localPath": "/source-media/a20081b4a070-image2.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image20(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=38"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 38656,
+      "localPath": "/source-media/ad285022697b-image20(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image20.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 5034,
+      "localPath": "/source-media/8c584f42bb84-image20.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image21(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 6033,
+      "localPath": "/source-media/cbdbb556ec17-image21(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image21(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=38"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 15170,
+      "localPath": "/source-media/64cee7536c03-image21(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image22(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 4841,
+      "localPath": "/source-media/27ec8c2e1282-image22(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image22(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=39"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 10408,
+      "localPath": "/source-media/2b4e551735ca-image22(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image23(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 28808,
+      "localPath": "/source-media/583c45cfffbe-image23(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image23(3).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=39"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 10478,
+      "localPath": "/source-media/73e2fd0169d4-image23(3).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image24.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=39"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 13051,
+      "localPath": "/source-media/baf9eba97569-image24.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image24.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 133762,
+      "localPath": "/source-media/34ac08d2a6a3-image24.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image25(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=40"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 8321,
+      "localPath": "/source-media/0edbcaa0ddc2-image25(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image25.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 23912,
+      "localPath": "/source-media/41a3e9466cf7-image25.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image26(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=40"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 7694,
+      "localPath": "/source-media/54bcf036d7f5-image26(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image26.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 58873,
+      "localPath": "/source-media/07132f0b656d-image26.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image27(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=43"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 18947,
+      "localPath": "/source-media/10f901d3a6ae-image27(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image27.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 36080,
+      "localPath": "/source-media/8e91506ffa5c-image27.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image28(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=43"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 38019,
+      "localPath": "/source-media/69dadc5d2aae-image28(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image28.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 24651,
+      "localPath": "/source-media/624fbd76692f-image28.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image29.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=43"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 15950,
+      "localPath": "/source-media/da9095a47e36-image29.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image29.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 93353,
+      "localPath": "/source-media/23237e5aacb0-image29.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image3(1).jpeg",
+      "alt": "http://www.agrotec.hu/obrazky-soubory/corner-a89bd.jpg",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=11"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 104839,
+      "localPath": "/source-media/653177875d8b-image3(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image3(3).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 85606,
+      "localPath": "/source-media/d314731910c5-image3(3).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image3(4).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=42"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 95373,
+      "localPath": "/source-media/b67b79cf7bb4-image3(4).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image3(5).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=5"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 30137,
+      "localPath": "/source-media/1da92ebedac0-image3(5).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image3(6).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=44"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 29641,
+      "localPath": "/source-media/1dfd12c5e644-image3(6).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image3.jpeg",
+      "alt": "DCP_0368",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=15"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 146391,
+      "localPath": "/source-media/2410d6ff9cef-image3.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image3.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=16"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 23280,
+      "localPath": "/source-media/adacb4a95816-image3.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image30(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 11923,
+      "localPath": "/source-media/65a48baed9d6-image30(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image31.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 2909,
+      "localPath": "/source-media/dc0d2b225bb3-image31.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image32.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 10688,
+      "localPath": "/source-media/fffad2862cd5-image32.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image4(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 81426,
+      "localPath": "/source-media/57f352e56d54-image4(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image4(3).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=16"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 113234,
+      "localPath": "/source-media/afb16d3c537e-image4(3).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image4(4).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=42"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 6079,
+      "localPath": "/source-media/73f7f58908ba-image4(4).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image4(5).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=5"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 111175,
+      "localPath": "/source-media/e12ea151928a-image4(5).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image4(6).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=44"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 32672,
+      "localPath": "/source-media/676ff22571b0-image4(6).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image4.jpeg",
+      "alt": "Kokad 1",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=11"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 61296,
+      "localPath": "/source-media/ea7e9b0bda9e-image4.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image4.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=15"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 618124,
+      "localPath": "/source-media/74bd8ffff2af-image4.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image5(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 115553,
+      "localPath": "/source-media/a09a4065bf06-image5(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image5(3).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=16"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 88612,
+      "localPath": "/source-media/1a88f9ee2ed5-image5(3).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image5(4).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=42"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 51663,
+      "localPath": "/source-media/4a8ee97e0745-image5(4).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image5(5).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=5"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 33188,
+      "localPath": "/source-media/c5d05bc8326d-image5(5).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image5(6).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=44"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 33188,
+      "localPath": "/source-media/129f8958c7e4-image5(6).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image6(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 78203,
+      "localPath": "/source-media/ce42b9127cc5-image6(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image6(3).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=42"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 78098,
+      "localPath": "/source-media/cd47b9f9324b-image6(3).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image6(4).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=5"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 29770,
+      "localPath": "/source-media/2c61520b367f-image6(4).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image6(5).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=44"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 45884,
+      "localPath": "/source-media/5dcb1d28c65f-image6(5).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image6.jpeg",
+      "alt": "http://www.lindsay.com/common/getimage.php?id=1141&width=0&height=0",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=11"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 46403,
+      "localPath": "/source-media/16712b3f46be-image6.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image6.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=16"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 26027,
+      "localPath": "/source-media/ba0932154067-image6.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image7(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 16464,
+      "localPath": "/source-media/9ed1df62bc5e-image7(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image7(1).png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=42"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 565348,
+      "localPath": "/source-media/e7a1fbf518fc-image7(1).png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image7(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=5"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 27456,
+      "localPath": "/source-media/a3143c2a42b9-image7(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image7(3).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=44"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 35433,
+      "localPath": "/source-media/dbbd034ceb51-image7(3).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image7.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=16"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 118155,
+      "localPath": "/source-media/a20d7b4bd27f-image7.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image7.png",
+      "alt": "http://www.lindsay.com/common/getimage.php?id=2002&width=0&height=0",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=11"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 400520,
+      "localPath": "/source-media/ce1c8067ede2-image7.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image8(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 41764,
+      "localPath": "/source-media/49c4af89b26e-image8(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image8(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 41764,
+      "localPath": "/source-media/d6dd2f498221-image8(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image8(3).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=42"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 5539,
+      "localPath": "/source-media/afebf1a51f5c-image8(3).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image8(4).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=5"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 50646,
+      "localPath": "/source-media/9b4e0a4d0bb2-image8(4).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image8(5).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=44"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 32321,
+      "localPath": "/source-media/07d624cf2096-image8(5).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image9(1).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 15217,
+      "localPath": "/source-media/40f9b7cbde50-image9(1).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image9(2).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=8"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 30036,
+      "localPath": "/source-media/e25cd72e24ee-image9(2).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/image9(3).jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=44"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 29505,
+      "localPath": "/source-media/0e1ee8cf9b92-image9(3).jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/mek.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=14"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 32989,
+      "localPath": "/source-media/088e2d93176e-mek.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/mekv_europa.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=14"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 22974,
+      "localPath": "/source-media/0e11fcf86771-mekv_europa.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/sk.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=14"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 36437,
+      "localPath": "/source-media/06b13ed2ccff-sk.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/sk_europa.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=14"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 51244,
+      "localPath": "/source-media/1032f02a9fab-sk_europa.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/skd_europa.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=14"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 34115,
+      "localPath": "/source-media/3421782c3295-skd_europa.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/t.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=14"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 24473,
+      "localPath": "/source-media/69c2b70fbaa3-t.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/tk.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=14"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 28614,
+      "localPath": "/source-media/756f89c51ede-tk.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/feltoltott_kepek/kepek/v.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=14"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 80695,
+      "localPath": "/source-media/a95391a75fd2-v.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/giunti_csepeg.pdf",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=13"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 775423,
+      "localPath": "/source-media/bf24c56446ea-giunti_csepeg.pdf"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/hir/124-vagy-198-tonna-hektaronkent-egy-oteves-alfoldi-ontozesi-kiserlet-tanulsagai_1_1_350x220.jpg",
+      "alt": "12,4 vagy 19,8 tonna hektáronként? Egy ötéves alföldi öntözési kísérlet tanulságai",
+      "pages": [
+        "https://www.rmhungary.hu/hirek.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 64504,
+      "localPath": "/source-media/b8f1e50a211f-124-vagy-198-tonna-hektaronkent-egy-oteves-alfoldi-ontozesi-kiserlet-tanulsagai_1_1_350x220.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/hir/372-kal-tobb-kukorica-mit-jelenthet-az-ontozes-egy-aszalyos-evben_2_350x220.jpg",
+      "alt": "37,2%-kal több kukorica: mit jelenthet az öntözés egy aszályos évben?",
+      "pages": [
+        "https://www.rmhungary.hu/hirek.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 69493,
+      "localPath": "/source-media/71e0f9d507f8-372-kal-tobb-kukorica-mit-jelenthet-az-ontozes-egy-aszalyos-evben_2_350x220.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/hir/aszalyban-mutatkozik-meg-igazan-az-ontozes-erteke-termeshozam-helyett-termesbiztonsagban-is-erdemes_2_350x220.jpg",
+      "alt": "Aszályban mutatkozik meg igazán az öntözés értéke: terméshozam helyett termésbiztonságban is érdemes",
+      "pages": [
+        "https://www.rmhungary.hu/hirek.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 69507,
+      "localPath": "/source-media/025f8ffeef42-aszalyban-mutatkozik-meg-igazan-az-ontozes-erteke-termeshozam-helyett-termesbiztonsagban-is-erdemes_2_350x220.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/hir/hatekony-ontozes-a-korszeru-mezogazdasagban_1_1_350x220.jpg",
+      "alt": "Hatékony öntözés a korszerű mezőgazdaságban",
+      "pages": [
+        "https://www.rmhungary.hu/hirek.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 26878,
+      "localPath": "/source-media/59e3b627d2f8-hatekony-ontozes-a-korszeru-mezogazdasagban_1_1_350x220.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/hir/mennyit-er-1-millimeter-ontozoviz-a-viz-erteket-a-hasznosulasa-mutatja-meg_1_350x220.jpg",
+      "alt": "Mennyit ér 1 milliméter öntözővíz? A víz értékét a hasznosulása mutatja meg",
+      "pages": [
+        "https://www.rmhungary.hu/hirek.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 69606,
+      "localPath": "/source-media/91f6f05d36c2-mennyit-er-1-millimeter-ontozoviz-a-viz-erteket-a-hasznosulasa-mutatja-meg_1_350x220.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/hir/modern-gepek-a-dohanytermeszteshez_1_1_350x220.jpg",
+      "alt": "Modern gépek a dohánytermesztéshez",
+      "pages": [
+        "https://www.rmhungary.hu/hirek.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 65661,
+      "localPath": "/source-media/594f71303922-modern-gepek-a-dohanytermeszteshez_1_1_350x220.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/hir/ontozorendszer-mint-kockazatkezeles-miert-valik-egyre-fontosabba-a-kiszamithato-vizellatas-az-alfol_1_350x220.jpg",
+      "alt": "Öntözőrendszer mint kockázatkezelés: miért válik egyre fontosabbá a kiszámítható vízellátás az Alföl",
+      "pages": [
+        "https://www.rmhungary.hu/hirek.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 66316,
+      "localPath": "/source-media/598d9282ae1b-ontozorendszer-mint-kockazatkezeles-miert-valik-egyre-fontosabba-a-kiszamithato-vizellatas-az-alfol_1_350x220.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/hir/ontozorendszer-tervezes-es-szerviz-egy-kezbol_1_1_350x220.jpg",
+      "alt": "Öntözőrendszer-tervezés és szerviz egy kézből",
+      "pages": [
+        "https://www.rmhungary.hu/hirek.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 33367,
+      "localPath": "/source-media/d495bc27bace-ontozorendszer-tervezes-es-szerviz-egy-kezbol_1_1_350x220.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/hir/rm-my-irrigation-intelligens-ontozes-barhonnan-vezerelheto_1_1_350x220.png",
+      "alt": "RM My irrigation – intelligens öntözés, bárhonnan vezérelhető",
+      "pages": [
+        "https://www.rmhungary.hu/hirek.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 91829,
+      "localPath": "/source-media/8cf4b1d4050c-rm-my-irrigation-intelligens-ontozes-barhonnan-vezerelheto_1_1_350x220.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/hir/tobb-viz-nem-mindig-jelent-tobb-profitot-az-optimalis-ontozes-a-megfelelo-dozisrol-szol_1_350x220.jpg",
+      "alt": "Több víz nem mindig jelent több profitot: az optimális öntözés a megfelelő dózisról szól",
+      "pages": [
+        "https://www.rmhungary.hu/hirek.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 63416,
+      "localPath": "/source-media/2baa999eb386-tobb-viz-nem-mindig-jelent-tobb-profitot-az-optimalis-ontozes-a-megfelelo-dozisrol-szol_1_350x220.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image1.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 78365,
+      "localPath": "/source-media/2f044c4aceff-image1.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image14.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 17269,
+      "localPath": "/source-media/a04133fad3c4-image14.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image14_350x220.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 34038,
+      "localPath": "/source-media/06e317d3525a-image14_350x220.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image15.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 10959,
+      "localPath": "/source-media/d27a7bad19ba-image15.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image16.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 34935,
+      "localPath": "/source-media/e102e3ff8643-image16.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image16_350x220.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 33377,
+      "localPath": "/source-media/f937522b2c00-image16_350x220.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image17.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 191372,
+      "localPath": "/source-media/a10ce81555ae-image17.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image17_350x220.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 51465,
+      "localPath": "/source-media/66cf7c932098-image17_350x220.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image1_350x220.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 60057,
+      "localPath": "/source-media/5edf39ab124d-image1_350x220.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image2.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 103221,
+      "localPath": "/source-media/377fb26978ce-image2.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image2_350x220.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 54243,
+      "localPath": "/source-media/03e7a3982ca5-image2_350x220.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image3.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 12132,
+      "localPath": "/source-media/a44744594458-image3.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image3_350x220.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 28845,
+      "localPath": "/source-media/fe0723a7a7b0-image3_350x220.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image4.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 31625,
+      "localPath": "/source-media/7e1c355d443f-image4.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image4_350x220.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 21340,
+      "localPath": "/source-media/3bced53ffdd2-image4_350x220.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image5.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 70470,
+      "localPath": "/source-media/c734e8b72563-image5.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image5_350x220.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 27973,
+      "localPath": "/source-media/4818292e2c1e-image5_350x220.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image6.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 8893,
+      "localPath": "/source-media/c25f7eebe356-image6.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image6_350x220.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 24688,
+      "localPath": "/source-media/1beedcd43901-image6_350x220.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image7.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 144024,
+      "localPath": "/source-media/70881c4c7dd8-image7.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image7_350x220.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 45048,
+      "localPath": "/source-media/2c3abc7c42d8-image7_350x220.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image8.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 61556,
+      "localPath": "/source-media/cda2515cd9f1-image8.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/index_images/image8_350x220.jpeg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 43374,
+      "localPath": "/source-media/2f4e2e0116cd-image8_350x220.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ivsator/image1.jpeg",
+      "alt": "ivsator",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=47"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 66670,
+      "localPath": "/source-media/88213b273956-image1.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ivsator/image10.jpeg",
+      "alt": "ivsator",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=47"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 42186,
+      "localPath": "/source-media/4ef2fcdf782f-image10.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ivsator/image11.jpeg",
+      "alt": "ivsator",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=47"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 51662,
+      "localPath": "/source-media/19eaf1518f1a-image11.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ivsator/image12.jpeg",
+      "alt": "ivsator",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=47"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 39682,
+      "localPath": "/source-media/f35b47a96522-image12.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ivsator/image2.jpeg",
+      "alt": "ivsator",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=47"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 59652,
+      "localPath": "/source-media/0df830882ae1-image2.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ivsator/image3.jpeg",
+      "alt": "ivsator",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=47"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 72184,
+      "localPath": "/source-media/f142a92020ef-image3.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ivsator/image4.jpeg",
+      "alt": "ivsator",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=47"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 42690,
+      "localPath": "/source-media/908f8f884da8-image4.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ivsator/image5.jpeg",
+      "alt": "ivsator",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=47"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 44921,
+      "localPath": "/source-media/314c6f633dcb-image5.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ivsator/image6.jpeg",
+      "alt": "ivsator",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=47"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 46587,
+      "localPath": "/source-media/aa853fa77056-image6.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ivsator/image7.jpeg",
+      "alt": "ivsator",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=47"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 36371,
+      "localPath": "/source-media/4c09cca0db22-image7.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ivsator/image8.jpeg",
+      "alt": "ivsator",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=47"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 41904,
+      "localPath": "/source-media/c60b7ba08095-image8.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ivsator/image9.jpeg",
+      "alt": "ivsator",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=47"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 50330,
+      "localPath": "/source-media/b29f00c13d97-image9.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ref/hibridkukorica-ontozesenek-fejlesztese-szabolcson_1_350x220.png",
+      "alt": "Hibridkukorica öntözésének fejlesztése Szabolcson",
+      "pages": [
+        "https://www.rmhungary.hu/referenciak.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 156158,
+      "localPath": "/source-media/4d3ba603905d-hibridkukorica-ontozesenek-fejlesztese-szabolcson_1_350x220.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ref/komplex-ontozesfejlesztes-hajduboszormenyben_1_350x220.png",
+      "alt": "Komplex öntözésfejlesztés Hajdúböszörményben",
+      "pages": [
+        "https://www.rmhungary.hu/referenciak.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 153509,
+      "localPath": "/source-media/414c4bd66462-komplex-ontozesfejlesztes-hajduboszormenyben_1_350x220.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ref/kukoricaontozes-fejlesztese-nadudvaron_1_350x220.png",
+      "alt": "Kukoricaöntözés fejlesztése Nádudvaron",
+      "pages": [
+        "https://www.rmhungary.hu/referenciak.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 140618,
+      "localPath": "/source-media/6e660d4fe6ec-kukoricaontozes-fejlesztese-nadudvaron_1_350x220.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ref/nagy-teljesitmenyu-ontozorendszer-timaron_1_350x220.png",
+      "alt": "Nagy teljesítményű öntözőrendszer Timáron",
+      "pages": [
+        "https://www.rmhungary.hu/referenciak.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 136282,
+      "localPath": "/source-media/e52dbbeace00-nagy-teljesitmenyu-ontozorendszer-timaron_1_350x220.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ref/takarmanykukorica-ontozese-zsadanyban_1_350x220.png",
+      "alt": "Takarmánykukorica öntözése Zsadányban",
+      "pages": [
+        "https://www.rmhungary.hu/referenciak.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 157329,
+      "localPath": "/source-media/9a9fcbc26496-takarmanykukorica-ontozese-zsadanyban_1_350x220.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ref/takarmanykukorica-ontozesenek-fejlesztese-hajdudorogon_1_350x220.jpeg",
+      "alt": "Takarmánykukorica öntözésének fejlesztése Hajdúdorogon",
+      "pages": [
+        "https://www.rmhungary.hu/referenciak.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 61439,
+      "localPath": "/source-media/28ab49f347cd-takarmanykukorica-ontozesenek-fejlesztese-hajdudorogon_1_350x220.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ref/teszt_1_350x220.jpg",
+      "alt": "Dohánytermesztés referencia",
+      "pages": [
+        "https://www.rmhungary.hu/referenciak.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 26640,
+      "localPath": "/source-media/8132bbcfb59b-teszt_1_350x220.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ref/vodar-center-ontozogepek-rakamazon_1_350x220.jpeg",
+      "alt": "Vodar center öntözőgépek Rakamazon",
+      "pages": [
+        "https://www.rmhungary.hu/referenciak.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 63746,
+      "localPath": "/source-media/bac1673074e9-vodar-center-ontozogepek-rakamazon_1_350x220.jpeg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/ref/vodar-korforgo-ontozoberendezes-tiszavasvariban_1_350x220.png",
+      "alt": "Vodar körforgó öntözőberendezés Tiszavasváriban",
+      "pages": [
+        "https://www.rmhungary.hu/referenciak.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 122934,
+      "localPath": "/source-media/6926d48e4ea8-vodar-korforgo-ontozoberendezes-tiszavasvariban_1_350x220.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/slide_1.jpg",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/",
+        "https://www.rmhungary.hu/index.php"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 63711,
+      "localPath": "/source-media/be67c13bccb1-slide_1.jpg"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/1000gx_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": "error",
+      "error": "<HTTPError 404: 'Not Found'>"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/540-gx_1_2.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": "error",
+      "error": "<HTTPError 404: 'Not Found'>"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/600-xjm_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=37"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 6963,
+      "localPath": "/source-media/0af54164d5aa-600-xjm_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/790gx_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 8372,
+      "localPath": "/source-media/9a440a332d41-790gx_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/800-xjm_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=37"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 7248,
+      "localPath": "/source-media/6e21d24a9064-800-xjm_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/800-xjm_57.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=37"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 7098,
+      "localPath": "/source-media/eee32f1a538e-800-xjm_57.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/800xj_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 9174,
+      "localPath": "/source-media/4b10f23e961d-800xj_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/840xj_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 10102,
+      "localPath": "/source-media/dff6385ebc96-840xj_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/890-gx-890gxevo_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 8439,
+      "localPath": "/source-media/e099d6562e8d-890-gx-890gxevo_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/900xj-evo_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 15495,
+      "localPath": "/source-media/a5694ee8a346-900xj-evo_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/990gx_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 8374,
+      "localPath": "/source-media/e7ae7b9a3f65-990gx_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/albatros-72_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=48"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 13008,
+      "localPath": "/source-media/aa8297cff32f-albatros-72_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/albatros_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=48"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 6691,
+      "localPath": "/source-media/1c9b941faedf-albatros_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/asd3_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 9391,
+      "localPath": "/source-media/dfff01846b42-asd3_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/asd4_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 10117,
+      "localPath": "/source-media/f0a97dd67748-asd4_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/asd5_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 9102,
+      "localPath": "/source-media/f74d1ca1cedd-asd5_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/asd6_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 9555,
+      "localPath": "/source-media/a4126c6e4240-asd6_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/asd7_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 8890,
+      "localPath": "/source-media/306ff429a4bf-asd7_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/asdsad2_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 8218,
+      "localPath": "/source-media/6af57eb11a85-asdsad2_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/boom_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=48"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 12884,
+      "localPath": "/source-media/789d5b3be929-boom_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/condor_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=48"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 13101,
+      "localPath": "/source-media/e5c5de99e71c-condor_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/falcon_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=48"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 12273,
+      "localPath": "/source-media/c10c03d27621-falcon_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/liqu_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=48"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 9944,
+      "localPath": "/source-media/90f0758e898d-liqu_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/magnum-fx_2.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 7203,
+      "localPath": "/source-media/7727e0feacd5-magnum-fx_2.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/magnum-giant_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 10376,
+      "localPath": "/source-media/04edb63408f5-magnum-giant_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/magnum-xjm_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=37"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 8292,
+      "localPath": "/source-media/18df3487ef6f-magnum-xjm_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/magnum_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 8551,
+      "localPath": "/source-media/197a6d9f975a-magnum_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/major-evo_1_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=10"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 18474,
+      "localPath": "/source-media/2b41ac6b5c01-major-evo_1_1.png"
+    },
+    {
+      "url": "https://www.rmhungary.hu/tartalom/termek/major-xjm_1.png",
+      "alt": "",
+      "pages": [
+        "https://www.rmhungary.hu/index.php?alkat=37"
+      ],
+      "status": 200,
+      "contentType": "cached",
+      "bytes": 6465,
+      "localPath": "/source-media/6d02cf0a14bf-major-xjm_1.png"
+    }
+  ],
+  "downloaded": 215
+}
